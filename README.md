@@ -1,5 +1,6 @@
 # Balance Starter Theme
 Balance - Starter WP theme
+Balance is a simple, Woocommerce-compatible WordPress starter theme
 
 <h2>Features</h2>
 <ul dir="auto">
